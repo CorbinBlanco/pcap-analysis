@@ -1,4 +1,4 @@
-# PCAP Analysis Lab
+# PCAP Analysis Project
 
 This repository documents my hands-on practice analyzing packet captures with Wireshark. Through these investigations, I explore network traffic, identify suspicious activity, and build my packet-analysis skills.
 
